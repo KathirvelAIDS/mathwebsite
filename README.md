@@ -212,7 +212,7 @@ Publish the website in the given URL.
         });
 
     </script>
-    <footer> <p class="by"><B>Developed by : Vijay R</B></p></footer>
+    <footer> <p class="by"><B>Developed by :A.KATHIRVEL</B></p></footer>
 </body>
 </html>
 ~~~
